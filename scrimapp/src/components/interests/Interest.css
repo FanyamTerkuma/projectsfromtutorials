@@ -1,0 +1,16 @@
+.interest-container {
+    margin-top: -100px;
+    width: 277px;
+    height: 201px;
+    color: #DCDCDC;
+}
+
+.interest-container>h1 {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.interest-container>p {
+    font-weight: 400;
+    font-size: 11px;
+}

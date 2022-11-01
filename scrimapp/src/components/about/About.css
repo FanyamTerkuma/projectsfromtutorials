@@ -1,0 +1,15 @@
+.about-container {
+    width: 277px;
+    height: 201px;
+    color: #DCDCDC;
+}
+
+.about-container>h1 {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.about-container>p {
+    font-weight: 400;
+    font-size: 11px;
+}
